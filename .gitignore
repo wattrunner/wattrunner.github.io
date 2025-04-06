@@ -122,9 +122,6 @@ dist/
 /dist/
 /www/
 
-# Gatsby build output
-public/
-
 # Astro output
 .astro/
 
